@@ -13,10 +13,10 @@ cls.Init(3);
 # Data Interface
 The data interface is obtained through GetApiList() and can be modified through SetApiUrl()
 1. Create a new category
-   Path: /api/data/add
-   Method: post
-   Parameter: {SuperiorId:0, Name:""}
-   Return: {status:true, newID:0}, {status:false, msg:""}
+   # Path: /api/data/add
+   # Method: post
+   # Parameter: {SuperiorId:0, Name:""}
+   # Return: {status:true, newID:0}, {status:false, msg:""}
 2. Get the category item of the specified parent ID
    Path: /api/data/getdata
    Method: get
