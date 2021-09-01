@@ -1,6 +1,8 @@
 # Classification
-Examples of front-end classification controls based on asp.net core can also be seen as asp.net core mvc, api, service examples
-
+Examples of front-end classification controls based on asp.net core can also be seen as asp.net core mvc, api, service examples</br>
+![Image text](https://github.com/kaof2010/Classification/blob/main/operation.gif?raw=true)
+# Html Template
+![Image text](https://github.com/kaof2010/Classification/blob/main/htmltemplate.png?raw=true)
 # Initialization
 Use reference site.js, a total of two initialization methods</br>
 ### 1. Initialization when there is no selection
